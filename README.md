@@ -34,6 +34,7 @@ Add a new team by navigating to Agents -> Teams -> Add New Team. For this exampl
 <br />
 <br />
 Now navigate to Settings -> Users -> Authentication Settings. Now, make sure to uncheck 'Require registration and login to create tickets.' This will ensure end-users can create new tickets without creating and logging into an account.
+  
 <img src="https://i.imgur.com/U8CXBuw.png" height="80%" width="80%" alt="Allow Ticket Creation Without Login"/>
 <br />
 <br />
@@ -67,6 +68,7 @@ Now, access the Agents panel by clicking the header at the top right of the webp
 <br />
 <br />
 We will create two end-users filling in the required fields Email Address and Full Name, then observe them within the User Directory.
+
 <img src="https://i.imgur.com/aVbwbkw.png" height="80%" width="80%" alt="Create End-User Karen and Ken"/>
 <img src="https://i.imgur.com/vU6vw5I.png" height="80%" width="80%" alt="Observe Nely Created End-Users"/>
 <br />
