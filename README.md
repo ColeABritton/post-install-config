@@ -12,7 +12,7 @@ This tutorial will focus on administering roles, departments, and permissions to
 - osTicket
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (21H2)
+- Windows 10 Pro</b>
 
 <h2>Configuration Steps</h2>
 
